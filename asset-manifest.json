@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/framer-motion-Page/static/css/main.14eaffe2.css",
+    "main.js": "/framer-motion-Page/static/js/main.2291e8ae.js",
+    "static/media/coffee1.png": "/framer-motion-Page/static/media/coffee1.8e5da2277e826cef6e1c.png",
+    "static/media/coffee3.png": "/framer-motion-Page/static/media/coffee3.b1fdf82d4e67b8d211e8.png",
+    "static/media/coffee-cover.jpg": "/framer-motion-Page/static/media/coffee-cover.30885f8238024b9ba635.jpg",
+    "static/media/black.png": "/framer-motion-Page/static/media/black.ceb45f8927dfea6cc6f5.png",
+    "static/media/app_store.png": "/framer-motion-Page/static/media/app_store.8a5164ca9f62a2d5c172.png",
+    "static/media/world-map.png": "/framer-motion-Page/static/media/world-map.8c9a0d9e97601244ae09.png",
+    "static/media/play_store.png": "/framer-motion-Page/static/media/play_store.1be3feade6ae12c67801.png",
+    "static/media/credit-cards.webp": "/framer-motion-Page/static/media/credit-cards.1286c81286ff46226507.webp",
+    "index.html": "/framer-motion-Page/index.html",
+    "main.14eaffe2.css.map": "/framer-motion-Page/static/css/main.14eaffe2.css.map",
+    "main.2291e8ae.js.map": "/framer-motion-Page/static/js/main.2291e8ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14eaffe2.css",
+    "static/js/main.2291e8ae.js"
+  ]
+}
