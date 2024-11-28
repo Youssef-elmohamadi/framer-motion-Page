@@ -1,0 +1,17 @@
+:root {
+  --primary: #f19509;
+  --primarydark: #e86f00;
+  --lightorange: #f1dabf;
+  --lightgray: hsl(219, 15%, 18%, 0.5);
+  --darkgray: hsl(213, 17%, 12%, 0.5);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.primary-color {
+  color: #f19509;
+}

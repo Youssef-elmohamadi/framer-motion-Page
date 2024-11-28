@@ -1,0 +1,14 @@
+@import "../assets/variables.css";
+
+.bg-primary-color {
+  background-color: var(--primary);
+  transition: 0.3s;
+}
+.bg-primary-color:hover {
+  background-color: var(--primarydark);
+}
+.no-shadow {
+  outline: none !important;
+  box-shadow: none !important;
+  border: 1px solid #eee;
+}

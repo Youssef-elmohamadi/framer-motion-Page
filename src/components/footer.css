@@ -1,0 +1,9 @@
+.footer {
+  background-color: var(--primary);
+  padding-top: 50px !important;
+  padding-bottom: 10px !important;
+}
+
+.custom-text {
+  font-size: 13px;
+}
